@@ -5,7 +5,7 @@ This web application is a testament to the power of web development for real-tim
 Key Features:
 
 Real-time Detection: Analyzes the live camera feed for signs of fire and flood, keeping you vigilant.
-Custom-built Model: Leverages a model trained specifically for fire and flood detection, built from scratch using powerful web technologies.
+Custom-built Model: Leverages a model trained specifically for fire and flood detection, built by using powerful web technologies.
 Visual Feedback: Highlights detected objects (fire and flood) with bounding boxes and labels for clear identification.
 Performance Monitoring: Displays the real-time frames per second (FPS) to gauge processing performance.
 How it Works:
